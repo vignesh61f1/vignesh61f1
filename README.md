@@ -22,3 +22,5 @@ I love to **build AI-powered solutions** and **Android apps** that solve real-wo
 
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/saivignesh2411)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve%20Problems-orange)](https://leetcode.com/u/sai_vignesh_2411/)
+
