@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi 🙋‍♂️, I'm Sai Vignesh!
 
-<!--
-**vignesh61f1/vignesh61f1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love to **build AI-powered solutions** and **Android apps** that solve real-world problems!
 
-Here are some ideas to get you started:
+- 🌟 I'm looking to collaborate on **ML, DL, or Android development projects**.
+- 🤝 I'm open to help with improving **machine learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📋 Know about my experiences: [LinkedIn]([https://linkedin.com/in/saivignesh2411](https://www.linkedin.com/in/saivignesh2411/details/certifications/))
+- 💻 Check my work: [GitHub](https://github.com/vignesh61fl)
+
+---
+
+## 🚀 What I Do
+- 🎓 **B.Tech AI & ML**
+- 🌱 **Projects**: 
+  - [PathFinder](https://github.com/theyuvarajkumar/Path-Finder) - Android app for visually impaired using OpenCV & TensorFlow.
+  - AI-ChatBot - NLP-based web app for mining queries (SIH 2023).
+  - Automating Booklet Details - OCR tool with Deep Learning (in progress).
+
+
+---
+
+## 🤝 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/saivignesh2411)
