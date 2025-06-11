@@ -23,3 +23,8 @@ I love to **build AI-powered solutions** and **Android apps** that solve real-wo
 ## 🤝 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/saivignesh2411)
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vignesh61f1&label=Profile%20views&color=0e75b6&style=flat" alt="vignesh61f1" />
+</p>
+
